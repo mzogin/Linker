@@ -1,1 +1,1 @@
-This linker program can take in an arbitrary number of assembly files and link them together into one executable object file.
+This linker program can take in an arbitrary number of assembly files and link them together into a single executable file, or a consolidated object file when used with the -o option.
